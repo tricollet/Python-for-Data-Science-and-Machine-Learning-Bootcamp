@@ -1,4 +1,4 @@
-# Python-for-Data-Science-and-Machine-Learning-Bootcamp
+# Python for Data Science and Machine Learning Bootcamp
 Python for Data Science and Machine Learning Bootcamp - Self-paced bootcamp (Udemy)
 
 Source: https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/
